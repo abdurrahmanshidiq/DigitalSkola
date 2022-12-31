@@ -5,6 +5,8 @@
 #   b. Buat child class Kucing yang memiliki value attribute nama_latin yang berbeda dengan class Hewan
 #   c. Di child class, override method makan
 
+# github link : https://github.com/abdurrahmanshidiq/DigitalSkola
+
 
 class Hewan:
     nama_latin = 'Animalia'
